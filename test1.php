@@ -1,3 +1,5 @@
+cool
+
 <form>
     <input type="file" id="file" name="file">
     <input  type="submit">
